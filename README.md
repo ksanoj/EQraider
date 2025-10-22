@@ -1,7 +1,7 @@
 # EQRaider
 
 EQRaider is a toolkit for modern EverQuest raiding with bot control and synchronized raid features. It provides dynamic combat behavior, group buffing, raid burn modes, and a set of commands to control your raid bots.
-Settings are based on the serverwide top 5 race guilds
+
 
 ---
 
