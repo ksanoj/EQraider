@@ -37,7 +37,7 @@ Commands are shown with their usage and a brief description.
 ### Combat & Targeting
 ```
 rddps <on/off>              — Toggle DPS for shamans
-rdattack <targetname>       — Bots attack the specified target
+rdattack <targetname>       — Bots lock attacks to the specified target,even if MA changes target
 rdattack clear              — Clear forced target
 rdsetnewma <playername>     — Set new main assist (MA)
 rdbalance <on/off>          — Toggle DPS balancing mode
