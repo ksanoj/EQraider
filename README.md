@@ -1,4 +1,4 @@
-EQRaider is a lua set designed for current content EverQuest raiding.
+EQRaider is a set designed for modern content EverQuest raiding.
 Features: 
 
 Dynamic combat capabilities:
