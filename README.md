@@ -62,7 +62,7 @@ rdpause <on/off>            — Pause/unpause bot operations
 
 ## Community & Support
 
-Class automation is not public yet.
+Class automation is not public.
 
 **Discord:** https://discord.gg/86p3hbYW
 
