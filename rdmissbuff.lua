@@ -1,5 +1,4 @@
 -- Missing Buff Monitor - Multi-Character with Actors
--- Shows missing buffs across all characters using actor communication
 -- Author: Noobjuice
 
 local mq = require('mq')
