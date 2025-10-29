@@ -44,6 +44,7 @@ rdbalance <on/off>          — Toggle DPS balancing mode
 rdassrange <number>         — Set assist range (distance to start attacking)
 rdstickrange <number>       — Set stick range (melee distance)
 rdhealtarget <name>         — Set primary heal target for clerics
+aggrodrop <on/off>          - Set aggro drop functionality on/off for bards and monks
 ```
 
 ### Movement & Positioning
