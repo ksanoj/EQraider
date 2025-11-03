@@ -1,4 +1,5 @@
 -- Missing Buff Monitor - Multi-Character with Actors
+-- Can be used stand-alone or with EQraiders
 -- Author: Noobjuice
 
 local mq = require('mq')
