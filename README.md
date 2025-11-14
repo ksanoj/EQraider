@@ -14,7 +14,7 @@ EQRaider is a toolkit for modern EverQuest raiding with bot control and synchron
 - Range mode — enable/disable melee or change range behavior
 - Set/Change MA — change main assist on the fly; each bot can have a unique MA
 - Engage mode — controls how bots melee a target (for example, always from behind)
-- Balancing — maintain DPS balance and avoid dropping below a configured minimum
+- Balancing — maintain HP balance and avoid dropping below a configured minimum
 
 ### Combat & buffs
 - Combat spell casting
