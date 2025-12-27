@@ -4,14 +4,15 @@
 local DB = {}
 
 -- Mount Database
--- Tier 1 (weakest) to Tier 6 (strongest)
+-- Tier 1 (weakest) to Tier 7 (strongest)
 DB.mounts = {
     ["Necromancer's Severed Hand"] = 1,
     ["Jungle Raptor Saddle"] = 2,
     ["Selyrah of Fear Saddle"] = 3,
     ["Radiant Hawk Harness"] = 4,
-    ["Scalewrought Drone Harness"] = 5,
-    ["Armored Bee Harness"] = 6,
+    ["Scalewrought Striker Saddle"] = 5,
+    ["Scalewrought Drone Harness"] = 6,
+    ["Armored Bee Harness"] = 7,
 }
 
 -- Helper function: Get best available mount from inventory
